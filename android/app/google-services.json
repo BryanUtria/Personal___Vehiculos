@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "733442174237",
+    "project_id": "bdvehiculos-c7d9f",
+    "storage_bucket": "bdvehiculos-c7d9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733442174237:android:fdc3769dfc779ea6ddc5f4",
+        "android_client_info": {
+          "package_name": "com.bryanutria.AppVehiculos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733442174237-4dc3p0equmij0n7nmovrmcpla11hj03s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bryanutria.AppVehiculos",
+            "certificate_hash": "9dc935211384c42719cd2d6fa8abc92e6ac0bfaf"
+          }
+        },
+        {
+          "client_id": "733442174237-12jh9v05klkko4lsmkunj9ir1rr63e9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkMJ2I6UaNEGyc-m9o3JO54X-x0QlceCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733442174237-12jh9v05klkko4lsmkunj9ir1rr63e9n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
